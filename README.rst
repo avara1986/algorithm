@@ -6,3 +6,5 @@ Ejemplos útiles de algoritmos escritos en Python
 * Mochila
 
 * Árboles
+
+* Backtracking
